@@ -21,7 +21,7 @@ with open("providers.txt") as fp:
     except Exception:
       pass
     print("done polling",l)
-    write("<li>"+l+addr+" has been polled</li>")
+    write("<li><a href=\""+l+addr+"\">"+l+addr+"</a> has been polled</li>")
 
 if "indexit" in args.keys() and args["indexit"][0]=="on":
   import indexit
