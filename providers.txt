@@ -1,6 +1,16 @@
 http://rx14.co.uk/ipfs/
+https://api.wisdom.sh/ipfs/
+https://catalunya.network/ipfs/
+https://gateway.ipfs.io/ipfs/
+https://hardbin.com/ipfs/
+https://ipfs.infura.io/ipfs/
 https://ipfs.io/ipfs/
 https://xmine128.tk/ipfs/
 https://upload.global/ipfs/
 https://ipfs.jes.xxx/ipfs/
+https://ipfs.macholibre.org/ipfs/
+https://ipfs.wa.hle.rs/ipfs/
+https://ipfs.work/ipfs/
+https://ipfs.works/ipfs/
 https://siderus.io/ipfs/
+https://www.eternum.io/ipfs/
