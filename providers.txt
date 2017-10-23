@@ -5,6 +5,7 @@ https://gateway.ipfs.io/ipfs/
 https://hardbin.com/ipfs/
 https://ipfs.infura.io/ipfs/
 https://ipfs.io/ipfs/
+http://dweb.link/ipfs/
 https://xmine128.tk/ipfs/
 https://upload.global/ipfs/
 https://ipfs.jes.xxx/ipfs/
@@ -14,3 +15,4 @@ https://ipfs.work/ipfs/
 https://ipfs.works/ipfs/
 https://siderus.io/ipfs/
 https://www.eternum.io/ipfs/
+http://gateway.glop.me/ipfs/
